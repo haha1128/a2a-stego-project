@@ -1,0 +1,15 @@
+a2a-sdk==0.2.11
+colorlog==6.9.0
+crcmod==1.7
+fastapi==0.116.1
+httpx==0.28.1
+nltk==3.9.1
+numpy==1.26.4
+openai==1.95.1
+prtpy==0.8.2
+python-dotenv==1.1.1
+starlette==0.47.1
+torch==2.3.0+cu121
+tqdm==4.65.0
+transformers==4.43.1
+uvicorn==0.35.0 
