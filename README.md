@@ -191,4 +191,4 @@ The client will connect to the server and begin the steganographic communication
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
-[Back to top](#)
+[Back to top](#a2a-steganography-communication-system)
