@@ -6,6 +6,14 @@
 
 本项目实现了一个基于代理对代理（A2A）协议的隐写通信系统。它利用大型语言模型（LLM）将秘密消息嵌入到看似正常的对话中，以确保数据的隐蔽传输。
 
+## 📄 相关论文
+
+**Whispering Agents: An event-driven covert communication protocol for the Internet of Agents**
+
+Kaibo Huang, Yukun Wei, WanSheng Wu, Tianhua Zhang, Zhongliang Yang, Linna Zhou
+
+[![Arxiv](https://img.shields.io/badge/arXiv-2508.02188-red)](https://arxiv.org/abs/2508.02188)
+
 ## 项目特性
 
 - **隐蔽Agent通信协议**: 设计并实现了一套完整的协议，用于在Agent之间进行安全的隐蔽通信。
@@ -14,6 +22,8 @@
 - **动态校验码**: 根据消息长度自动选择校验码算法（`CRC-16`, `SHA-256`, `BLAKE2s-128`），以确保数据完整性。
 - **LLM 驱动**: 使用大型语言模型生成载体消息，使通信看起来更自然。
 - **可配置**: 可通过 `config.py` 文件轻松配置不同的模型、算法和密钥。
+
+
 
 ## 项目结构
 
