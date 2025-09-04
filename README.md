@@ -6,14 +6,6 @@
 
 This project implements a steganographic communication system based on the Agent-to-Agent (A2A) protocol. It leverages Large Language Models (LLMs) to embed secret messages within seemingly normal conversations, ensuring covert data transmission.
 
-## 📄 Related Paper
-
-**Whispering Agents: An event-driven covert communication protocol for the Internet of Agents**
-
-Kaibo Huang, Yukun Wei, WanSheng Wu, Tianhua Zhang, Zhongliang Yang, Linna Zhou
-
-[![Arxiv](https://img.shields.io/badge/arXiv-2508.02188-red)](https://arxiv.org/abs/2508.02188)
-
 ## Features
 
 - **Covert Agent Communication Protocol**: Designed and implemented a complete protocol for secure, covert communication between agents.
